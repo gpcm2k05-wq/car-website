@@ -338,7 +338,7 @@ li {
     font-weight: 600;
 }
 
-h2 {
+.cars h2 {
     font-size: 28px;
     font-family: Perpetua;
     font-weight: 600;
@@ -432,6 +432,16 @@ address {
     transform: scale(1.1);
     background-color: rgba(58, 58, 58, 0.546);
     border-radius: 8px;
+}
+
+h2 {
+     font-size: 28px;
+    font-family: Perpetua;
+    font-weight: 600;
+    font-style: italic;
+    word-spacing: 2px;
+    text-align: center;
+    margin-top: 10px;
 }
 
 @media screen and (max-width: 576px) {
