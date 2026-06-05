@@ -370,6 +370,7 @@ li {
     border-radius: 5px;
     padding: 24px;
     margin: 10px;
+    width: 90%;
     font-size: 24px;
     color: #fdfdfd;
     border-radius: 30px;
@@ -431,7 +432,7 @@ address {
 }
 
 h2 {
-     font-size: 28px;
+    font-size: 28px;
     font-weight: 600;
     font-style: italic;
     word-spacing: 2px;
